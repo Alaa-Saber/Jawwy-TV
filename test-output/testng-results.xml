@@ -2,32 +2,32 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-03-24T22:02:16 EET" name="Default suite" finished-at="2023-03-24T22:02:51 EET" duration-ms="34573">
+  <suite started-at="2023-03-25T00:39:13 EET" name="Default suite" finished-at="2023-03-25T00:39:44 EET" duration-ms="31504">
     <groups>
     </groups>
-    <test started-at="2023-03-24T22:02:16 EET" name="Default test" finished-at="2023-03-24T22:02:51 EET" duration-ms="34573">
+    <test started-at="2023-03-25T00:39:13 EET" name="Default test" finished-at="2023-03-25T00:39:44 EET" duration-ms="31504">
       <class name="ValidateScenario.ValidationScenarios">
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:ValidateScenario.ValidationScenarios@6c1a5b54]" started-at="2023-03-24T22:02:16 EET" name="beforeClass" finished-at="2023-03-24T22:02:50 EET" duration-ms="33555" status="PASS">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:ValidateScenario.ValidationScenarios@6c1a5b54]" started-at="2023-03-25T00:39:13 EET" name="beforeClass" finished-at="2023-03-25T00:39:43 EET" duration-ms="30483" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method signature="validate_Currency()[pri:0, instance:ValidateScenario.ValidationScenarios@6c1a5b54]" started-at="2023-03-24T22:02:50 EET" name="validate_Currency" finished-at="2023-03-24T22:02:50 EET" duration-ms="98" status="PASS">
+        <test-method signature="validate_Currency()[pri:0, instance:ValidateScenario.ValidationScenarios@6c1a5b54]" started-at="2023-03-25T00:39:43 EET" name="validate_Currency" finished-at="2023-03-25T00:39:43 EET" duration-ms="88" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validate_Currency -->
-        <test-method signature="validate_Number_Of_Packages()[pri:0, instance:ValidateScenario.ValidationScenarios@6c1a5b54]" started-at="2023-03-24T22:02:50 EET" name="validate_Number_Of_Packages" finished-at="2023-03-24T22:02:50 EET" duration-ms="60" status="PASS">
+        <test-method signature="validate_Number_Of_Packages()[pri:0, instance:ValidateScenario.ValidationScenarios@6c1a5b54]" started-at="2023-03-25T00:39:43 EET" name="validate_Number_Of_Packages" finished-at="2023-03-25T00:39:43 EET" duration-ms="68" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validate_Number_Of_Packages -->
-        <test-method signature="validate_Package_Prices()[pri:0, instance:ValidateScenario.ValidationScenarios@6c1a5b54]" started-at="2023-03-24T22:02:50 EET" name="validate_Package_Prices" finished-at="2023-03-24T22:02:50 EET" duration-ms="59" status="PASS">
+        <test-method signature="validate_Package_Prices()[pri:0, instance:ValidateScenario.ValidationScenarios@6c1a5b54]" started-at="2023-03-25T00:39:43 EET" name="validate_Package_Prices" finished-at="2023-03-25T00:39:43 EET" duration-ms="52" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validate_Package_Prices -->
-        <test-method signature="validate_Package_Types()[pri:0, instance:ValidateScenario.ValidationScenarios@6c1a5b54]" started-at="2023-03-24T22:02:50 EET" name="validate_Package_Types" finished-at="2023-03-24T22:02:50 EET" duration-ms="57" status="PASS">
+        <test-method signature="validate_Package_Types()[pri:0, instance:ValidateScenario.ValidationScenarios@6c1a5b54]" started-at="2023-03-25T00:39:43 EET" name="validate_Package_Types" finished-at="2023-03-25T00:39:43 EET" duration-ms="52" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validate_Package_Types -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:ValidateScenario.ValidationScenarios@6c1a5b54]" started-at="2023-03-24T22:02:50 EET" name="afterClass" finished-at="2023-03-24T22:02:51 EET" duration-ms="704" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:ValidateScenario.ValidationScenarios@6c1a5b54]" started-at="2023-03-25T00:39:43 EET" name="afterClass" finished-at="2023-03-25T00:39:44 EET" duration-ms="711" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->

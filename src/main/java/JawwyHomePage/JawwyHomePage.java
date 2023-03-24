@@ -49,6 +49,17 @@ public class JawwyHomePage {
 	public String getCurrentCountry() {
 		return browser.findElement(CurrentCountry).getText();
 	}
+	
+	public List<String> get_Country_List() {
+		List<String> countries = new ArrayList<String>();
+		browser.findElement(CurrentCountry).click();
+		
+		List<WebElement> cntries = browser.findElements(CountryList);
+		for (WebElement title : cntries) {
+			countries.add(title.getText());
+		}
+		return countries;
+	}
 
 	public void changeCountry(String neededCountry) {
 		if (getCurrentCountry() != neededCountry) {

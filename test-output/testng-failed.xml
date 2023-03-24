@@ -5,8 +5,7 @@
     <classes>
       <class name="ValidateScenario.ValidationScenarios">
         <methods>
-          <include name="validate_Package_Types"/>
-          <include name="afterClass"/>
+          <include name="validate_Package_Prices"/>
           <include name="beforeClass"/>
         </methods>
       </class> <!-- ValidateScenario.ValidationScenarios -->

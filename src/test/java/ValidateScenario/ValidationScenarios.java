@@ -1,8 +1,6 @@
 package ValidateScenario;
 
 import static org.testng.Assert.assertEquals;
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -20,7 +18,6 @@ public class ValidationScenarios {
 	ChromeOptions chromeOptions;
 	JawwyHomePage homepage;	
 	JawwyCountryList country;
-	List<String> CountryUnderTest = new ArrayList<String>(Arrays.asList("UAE", "Algeria", "Djibouti"));
 
 	@BeforeClass
 	public void beforeClass() {
